@@ -1,1 +1,2 @@
 This is second test file in test branch.
+This is best testing strategy.
